@@ -1,0 +1,35 @@
+body{
+    background-image: url('../Images/fondo.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+#ingresar{
+    color: white;
+}
+
+p{
+    margin-left: 35.5%;
+    margin-top: 20px;
+}
+
+.botones{
+    width: 500px;
+    text-align: center;
+    background-color: rgb(100,99,82);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.botones h3{
+    text-align: justify;
+    color: white;
+}
